@@ -1,2 +1,0 @@
-logo : salah
-password : root
